@@ -1,3 +1,3 @@
 # thefoodtrip
 
-Web responsive de sushi. Hecha con html, css y JavaScript. 
+Web responsive hecha con html, css y JavaScript. 
